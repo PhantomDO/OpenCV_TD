@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestEmguCV", "TestEmguCV.csproj", "{9C7F2506-37BF-47D0-B52F-E642A562AE4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectColorBall", "..\DetectColorBall\DetectColorBall.csproj", "{B27C2B19-1CB8-4709-83EE-3E86AA69C4D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectColorBall", "..\DetectColorBall\DetectColorBall.csproj", "{B27C2B19-1CB8-4709-83EE-3E86AA69C4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "..\QRCode\QRCode.csproj", "{DA3B8E47-5E3F-4F1F-BF21-55069647E925}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B27C2B19-1CB8-4709-83EE-3E86AA69C4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B27C2B19-1CB8-4709-83EE-3E86AA69C4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B27C2B19-1CB8-4709-83EE-3E86AA69C4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3B8E47-5E3F-4F1F-BF21-55069647E925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3B8E47-5E3F-4F1F-BF21-55069647E925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3B8E47-5E3F-4F1F-BF21-55069647E925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3B8E47-5E3F-4F1F-BF21-55069647E925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
